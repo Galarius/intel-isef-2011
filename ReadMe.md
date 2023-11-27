@@ -24,8 +24,6 @@ In order to achieve the appropriate flexibility and performance several developm
 
 *Aids: `iZotope RX`, `Sony Sound Forge`*
 
-[Journey Description (Git Book)](https://galarius.gitbooks.io/intel-isef-2011)
-
 ---
 
 <img src="assets/placard.png" width=640px;>
